@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">StuDIY</string>
+    <string name="search_background_text">Looking for a specific tutor?</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Log In</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="signup">Sign Up</string>
+    <string name="iama">I am a...</string>
+    <string name="tutor">Tutor</string>
+    <string name="tutee">Tutee</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="create_an_account">Create Account</string>
+    <string name="email">Email</string>
+    <string name="retype_password">Retype your password</string>
+    <string name="personality_test">Personality Test</string>
+    <string name="personality_test_description">This MBTI personality test helps us find the most suitable match for you!\n Press next to skip the test.</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="test_description_incomplete">You didn\'t complete\n the test :(</string>
+    <string name="test_result_description_incomplete">You can go back and complete the test to get your MBTI personality type. Otherwise, you can access the test from the Settings page in the future.</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="account_information">Account Information</string>
+    <string name="personality">Your personality type is...</string>
+    <string name="test_result_description">There are lots of resources online that discuss the details of each MBTI personality type, do give them a look!</string>
+    <string name="choose_subject">Choose Your Subjects</string>
+    <string name="write_message">Write a message...</string>
+</resources>
