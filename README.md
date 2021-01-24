@@ -1,9 +1,5 @@
 # StuDIY
 
-Prior to this, I made a few small android apps to play around (you can find them in my other repos). I wrote these without any understanding of app architecture best practices, Android Studio's codebase, or even Java's object-oriented features, and I think 
-
-This is essentially my first attempt to architect an app that is maintainable and collaboratable.
-
 ## Frontend
 <img src="app_architecture.png" width="520">
 
