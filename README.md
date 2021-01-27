@@ -1,5 +1,6 @@
 # StuDIY
-
+Hack Cambridge 2021
+[Devpost Link](https://devpost.com/software/tutorie)
 ## Frontend
 <img src="https://github.com/rdrf2838/StuDIY/blob/master/StuDIY/Resources/app_architecture.png" width="520">
 
